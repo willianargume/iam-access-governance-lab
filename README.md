@@ -1,6 +1,6 @@
 # IAM & Access Governance Lab
 
-Laboratorio práctico de gestión de identidades y accesos (IAM) construido sobre Microsoft Entra ID, documentando escenarios reales de gobierno de identidades que replican los controles administrados en producción para +200 usuarios en un entorno multinacional (GesNext / IBM).
+Laboratorio práctico de gestión de identidades y accesos (IAM) construido sobre Microsoft Entra ID, aplicando principios de gobierno de identidades similares a los que administro profesionalmente en entornos corporativos multinacionales.
 
 ## 📁 Contenido del repositorio
 
