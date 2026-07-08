@@ -27,7 +27,7 @@ Implementar una directiva de Acceso Condicional que bloquee el acceso a los recu
 
 ## Evidencia
 
-*(Captura de pantalla de las 2 directivas activas en el tenant — pendiente de insertar en este documento)*
+![CA002 Policy Screenshot](./CA002-policy-screenshot.png)
 
 ## Próximos pasos
 
