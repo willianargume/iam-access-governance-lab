@@ -55,7 +55,11 @@ Simula una promoción interna. En un escenario real de producción, este cambio 
 
 ## Evidencia
 
-*(Capturas de pantalla: perfil de Juan Sánchez con puesto actualizado y cuenta deshabilitada — pendiente de insertar en este documento)*
+![Grupo SG-Analistas-Soporte-TI con Juan Sánchez como miembro](./abm-01-group-membership.png)
+
+![Puesto modificado a Analista Senior de Soporte TI](./abm-02-role-modification.png)
+
+![Cuenta deshabilitada tras offboarding](./abm-03-account-disabled.png)
 
 ## Próximos pasos
 
