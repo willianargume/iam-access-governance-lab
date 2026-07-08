@@ -23,7 +23,7 @@ Implementar una directiva de Acceso Condicional que exija autenticación multifa
 
 ## Evidencia
 
-*(Capturas de pantalla de la directiva creada en Microsoft Entra ID — pendiente de insertar en este documento o en carpeta `/screenshots`)*
+![CA001 Policy Screenshot](./CA001-policy-screenshot.png)
 
 ## Próximos pasos
 
